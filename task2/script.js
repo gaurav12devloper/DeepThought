@@ -35,3 +35,9 @@ function commontoggle(angle_id, toggle_id) {
         document.getElementById(toggle_id).classList.remove('active');
     }
 }
+
+
+
+
+
+
